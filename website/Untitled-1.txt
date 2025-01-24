@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charest="UTF-8">
+     <title>BAŞLIK</title>
+</head>
+<body>
+<div id="banner"></div>
+<div id="left.menu"></div>
+    ( block my_content) { endblock}
+<div id="footer"></div>
+</body>
+</html>
